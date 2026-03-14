@@ -1,4 +1,6 @@
 # Totoro-Windows
+# 重要消息
+直接下载release里面的7z压缩包使用，仓库源码是缺的
 
 龙猫校园Windows本地部署预编译版
 
